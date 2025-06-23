@@ -38,7 +38,7 @@ TORUS is a Hyperlane Warp Route, which is a synthetic token that bridges between
 - No pausing (implementation owner renounced)  
 - No fee changes (implementation owner renounced)
 - No upgrades (proxy admin renounced)
-- No rug pulls (all control mechanisms disabled liquidity locked)
+- No rug pulls (all control mechanisms disabled, liquidity locked)
 
 **What Can Happen:**
 - Standard ERC20 transfers
